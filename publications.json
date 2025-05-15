@@ -1,0 +1,241 @@
+[
+  {
+    "type": "article",
+    "id": "beck2016survis",
+    "title": "Visual Analysis and Dissemination of Scientific Literature Collections with SurVis",
+    "authors": [
+      "Beck, Fabian",
+      "Koch, Sebastian",
+      "Weiskopf, Daniel"
+    ],
+    "year": 2016,
+    "doi": "10.1109/TVCG.2015.2467757",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "keywords": [
+      "literature visualization",
+      "visual analytics"
+    ],
+    "topics": [
+      "Tool-based Systems"
+    ]
+  },
+  {
+    "type": "article",
+    "id": "chen2006citespace",
+    "title": "CiteSpace II: Detecting and Visualizing Emerging Trends and Transient Patterns in Scientific Literature",
+    "authors": [
+      "Chen, Chaomei"
+    ],
+    "year": 2006,
+    "doi": "10.1002/asi.20317",
+    "venue": "Journal of the American Society for Information Science and Technology",
+    "keywords": [
+      "scientific visualization",
+      "bibliometrics"
+    ],
+    "topics": [
+      "Tool-based Systems"
+    ]
+  },
+  {
+    "type": "inproceedings",
+    "id": "chen2018citespace",
+    "title": "Visualizing and Exploring Scientific Literature with CiteSpace: An Introduction to A Half-Day Tutorial",
+    "authors": [
+      "Chen, Chaomei"
+    ],
+    "year": 2018,
+    "doi": "10.1145/3176349.3176897",
+    "venue": "Proceedings of the 2018 Conference on Human Information Interaction and Retrieval",
+    "keywords": [
+      "literature exploration",
+      "visualization tutorial"
+    ],
+    "topics": [
+      "Tool-based Systems"
+    ]
+  },
+  {
+    "type": "article",
+    "id": "choo2014visirr",
+    "title": "VisIRR: A Visual Analytics System for Information Retrieval and Recommendation for Large-Scale Document Data",
+    "authors": [
+      "Choo, Jaegul",
+      "Lee, Haesun"
+    ],
+    "year": 2014,
+    "doi": "10.1109/TVCG.2014.2346452",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "keywords": [
+      "information retrieval",
+      "visual analytics"
+    ],
+    "topics": [
+      "Tool-based Systems"
+    ]
+  },
+  {
+    "type": "article",
+    "id": "rees2019survey",
+    "title": "A Survey of Information Visualization Books",
+    "authors": [
+      "Rees, David",
+      "Laramee, Robert S."
+    ],
+    "year": 2019,
+    "doi": "10.1111/cgf.13595",
+    "venue": "Computer Graphics Forum",
+    "keywords": [
+      "information visualization",
+      "literature survey"
+    ],
+    "topics": [
+      "Visual Literacy"
+    ]
+  },
+  {
+    "type": "article",
+    "id": "firat2022interactive",
+    "title": "Interactive Visualization Literacy: The State-of-the-Art",
+    "authors": [
+      "Firat, Elif E.",
+      "Joshi, Alark",
+      "Laramee, Robert S."
+    ],
+    "year": 2022,
+    "doi": "10.1177/14738716221081831",
+    "venue": "Information Visualization",
+    "keywords": [
+      "visualization literacy",
+      "interactive visualization"
+    ],
+    "topics": [
+      "Visual Literacy"
+    ]
+  },
+  {
+    "type": "article",
+    "id": "kale2021visual",
+    "title": "Visual Reasoning Strategies for Effect Size Judgments and Decisions",
+    "authors": [
+      "Kale, Alex",
+      "Kay, Matthew",
+      "Hullman, Jessica"
+    ],
+    "year": 2021,
+    "doi": "10.1109/TVCG.2020.3030335",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "keywords": [
+      "visual reasoning",
+      "effect size",
+      "decision making"
+    ],
+    "topics": [
+      "Visual Literacy"
+    ]
+  },
+  {
+    "type": "article",
+    "id": "mcnabb2017sos",
+    "title": "Survey of Surveys (SoS): Mapping the Landscape of Survey Papers in Information Visualization",
+    "authors": [
+      "McNabb, Liam",
+      "Laramee, Robert S."
+    ],
+    "year": 2017,
+    "doi": "10.1111/cgf.13212",
+    "venue": "Computer Graphics Forum",
+    "keywords": [
+      "survey papers",
+      "information visualization"
+    ],
+    "topics": [
+      "Structure & Meta-Surveys"
+    ]
+  },
+  {
+    "type": "article",
+    "id": "liu2022resources",
+    "title": "Visualization Resources: A Survey",
+    "authors": [
+      "Liu, Xiaoxiao",
+      "Alharbi, Mohammad",
+      "Laramee, Robert S."
+    ],
+    "year": 2022,
+    "doi": "10.1177/14738716221126992",
+    "venue": "Information Visualization",
+    "keywords": [
+      "visualization resources",
+      "survey"
+    ],
+    "topics": [
+      "Structure & Meta-Surveys"
+    ]
+  },
+  {
+    "type": "article",
+    "id": "yuan2020survey",
+    "title": "A Survey of Visual Analytics Techniques for Machine Learning",
+    "authors": [
+      "Yuan, Jun",
+      "Chen, Changjian",
+      "Yang, Weikai",
+      "Liu, Mengchen",
+      "Xia, Jiazhi",
+      "Liu, Shixia"
+    ],
+    "year": 2020,
+    "doi": "10.1007/s41095-020-0191-7",
+    "venue": "Visual Informatics",
+    "keywords": [
+      "visual analytics",
+      "machine learning"
+    ],
+    "topics": [
+      "Structure & Meta-Surveys"
+    ]
+  },
+  {
+    "type": "inproceedings",
+    "id": "kucher2015browser",
+    "title": "Text Visualization Browser: A Visual Survey of Text Visualization Techniques",
+    "authors": [
+      "Kucher, Kostiantyn",
+      "Kerren, Andreas"
+    ],
+    "year": 2015,
+    "doi": "10.1109/PACIFICVIS.2015.7156366",
+    "venue": "IEEE Pacific Visualization Symposium",
+    "keywords": [
+      "text visualization",
+      "visual survey"
+    ],
+    "topics": [
+      "Structure & Meta-Surveys"
+    ]
+  },
+  {
+    "type": "article",
+    "id": "heimerl2018citation",
+    "title": "Visualizing Citation Networks",
+    "authors": [
+      "Heimerl, Florian",
+      "Koch, Sebastian",
+      "Bosch, Hans",
+      "Ernst, Jan",
+      "Kerren, Andreas",
+      "Weiskopf, Daniel"
+    ],
+    "year": 2018,
+    "doi": "10.1109/TVCG.2018.2865142",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "keywords": [
+      "citation networks",
+      "visualization"
+    ],
+    "topics": [
+      "Structure & Meta-Surveys"
+    ]
+  }
+]
